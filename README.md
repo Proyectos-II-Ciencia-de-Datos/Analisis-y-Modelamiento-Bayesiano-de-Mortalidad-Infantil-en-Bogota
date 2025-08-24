@@ -19,7 +19,8 @@ Resultados principales: conclusiones rápidas o hallazgos (ej. “La mayoría de
 Instrucciones de uso: cómo abrir el dashboard, cómo correr los scripts, cómo explorar los mapas.
 Autores/Colaboradores: poner tu nombre y el de quien participó.
 
-[📄 Informe: EDA - Venta de Propiedades en NY](Informe/EDA%20-%20Venta%20de%20Propiedades%20en%20NY.pdf)
+[📄 Informe Mortalidad Infantil Bogotá](Informe/Mortalidad_Infantil_Bogotá.pdf)
+
 
 
 
