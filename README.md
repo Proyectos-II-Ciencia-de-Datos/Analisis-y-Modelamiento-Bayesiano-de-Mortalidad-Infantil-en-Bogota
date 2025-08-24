@@ -8,7 +8,7 @@
 ![pymc](https://img.shields.io/pypi/v/pymc?label=pymc&logo=themodelsresource&logoColor=white)
 ![arviz](https://img.shields.io/pypi/v/arviz?label=arviz&logo=apachespark&logoColor=white)
 ![scikit-learn](https://img.shields.io/pypi/v/scikit-learn?label=scikit--learn&logo=scikitlearn&logoColor=white)
-
+![Excel Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 Según chatgpt:
 Ya tienes la descripción, pero yo le sumaría:
