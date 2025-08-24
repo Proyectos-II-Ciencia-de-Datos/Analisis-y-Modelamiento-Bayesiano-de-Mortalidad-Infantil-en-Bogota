@@ -1,13 +1,14 @@
 # Análisis y Modelamiento Bayesiano de la Mortalidad Infantil en Bogotá
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
-![PyPI - Version](https://img.shields.io/pypi/v/pandas?label=pandas)
-![PyPI - Version](https://img.shields.io/pypi/v/numpy?label=numpy)
-![PyPI - Version](https://img.shields.io/pypi/v/matplotlib?label=matplotlib)
-![PyPI - Version](https://img.shields.io/pypi/v/seaborn?label=seaborn)
-![PyPI - Version](https://img.shields.io/pypi/v/scipy?label=scipy)
-![PyPI - Version](https://img.shields.io/pypi/v/pymc?label=pymc)
-![PyPI - Version](https://img.shields.io/pypi/v/arviz?label=arviz)
-![PyPI - Version](https://img.shields.io/pypi/v/scikit-learn?label=scikit-learn)
+![pandas](https://img.shields.io/pypi/v/pandas?label=pandas&logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/pypi/v/numpy?label=numpy&logo=numpy&logoColor=white)
+![matplotlib](https://img.shields.io/pypi/v/matplotlib?label=matplotlib&logo=plotly&logoColor=white)
+![seaborn](https://img.shields.io/pypi/v/seaborn?label=seaborn&logo=databricks&logoColor=white)
+![scipy](https://img.shields.io/pypi/v/scipy?label=scipy&logo=scipy&logoColor=white)
+![pymc](https://img.shields.io/pypi/v/pymc?label=pymc&logo=themodelsresource&logoColor=white)
+![arviz](https://img.shields.io/pypi/v/arviz?label=arviz&logo=apachespark&logoColor=white)
+![scikit-learn](https://img.shields.io/pypi/v/scikit-learn?label=scikit--learn&logo=scikitlearn&logoColor=white)
+
 
 Según chatgpt:
 Ya tienes la descripción, pero yo le sumaría:
