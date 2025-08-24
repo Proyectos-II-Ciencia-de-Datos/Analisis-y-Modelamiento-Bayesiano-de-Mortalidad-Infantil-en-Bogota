@@ -8,7 +8,7 @@
 ![pymc](https://img.shields.io/pypi/v/pymc?label=pymc&logo=themodelsresource&logoColor=white)
 ![arviz](https://img.shields.io/pypi/v/arviz?label=arviz&logo=apachespark&logoColor=white)
 ![scikit-learn](https://img.shields.io/pypi/v/scikit-learn?label=scikit--learn&logo=scikitlearn&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-white.svg?style=for-the-badge&logo=microsoft-excel&logoColor=217346)
 
 
 Según chatgpt:
